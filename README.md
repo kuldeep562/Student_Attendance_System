@@ -68,10 +68,7 @@ Each branch contains its own implementation:
 
 ```
 .
-├── notebooks/
-├── scripts/
-├── models/
-├── data/
+├── notebooks
 ├── requirements.txt
 └── README.md
 ```
