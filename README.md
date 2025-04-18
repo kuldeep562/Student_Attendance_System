@@ -91,10 +91,11 @@ Each branch has its own `requirements.txt`, but common dependencies include:
 
 ## 👏 Contributions
 
-Contributions and improvements are welcome! If you want to suggest features, refactor code, or test things out, feel free to fork and open a pull request.
+Contributions and improvements are welcome! If you'd like to improve the model, fix a bug, or enhance documentation, feel free to fork the repo and submit a pull request.
 
 ---
 
 ## 🧾 License
 
-This project is for academic and research purposes.
+This project is licensed under the **Apache License 2.0**.  
+See the [LICENSE](./LICENSE.md) file for full details.
