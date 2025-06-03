@@ -90,9 +90,4 @@ Each branch has its own `requirements.txt`, but common dependencies include:
 
 Contributions and improvements are welcome! If you'd like to improve the model, fix a bug, or enhance documentation, feel free to fork the repo and submit a pull request.
 
----
 
-## 🧾 License
-
-This project is licensed under the **Apache License 2.0**.  
-See the [LICENSE](./LICENSE.md) file for full details.
